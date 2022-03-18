@@ -1,0 +1,58 @@
+/** @format */
+
+@media (min-width: 320px) {
+  .footbg {
+    background-color: #ffffff;
+  }
+  .logoicons {
+    margin: 0px 10px;
+  }
+  .Products,
+  .Learn,
+  .Company,
+  .Legal {
+    display: none;
+  }
+  .Contact li {
+    list-style: none;
+  }
+  .footerend {
+    background-color: #f2f2f2;
+  }
+  .footerimg {
+    margin: 15px 0px;
+    width: 250px;
+  }
+}
+@media (min-width: 801px) {
+  .Products,
+  .Learn,
+  .Company,
+  .Legal {
+    display: block;
+  }
+  .Products li {
+    list-style: none;
+    margin-right: 50px;
+    text-align: left;
+  }
+  .Learn li {
+    list-style: none;
+    text-align: left;
+  }
+  .Company li {
+    list-style: none;
+    margin-right: 50px;
+    text-align: left;
+  }
+  .Legal li {
+    list-style: none;
+    margin-left: 23%;
+    text-align: left;
+  }
+  .footbg {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+}

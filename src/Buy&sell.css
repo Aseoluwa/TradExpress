@@ -1,0 +1,187 @@
+/** @format */
+
+@media (min-width: 320px) {
+  .BSdiv {
+    width: 300px;
+    height: 400px;
+    border: 0px solid;
+    margin: auto;
+    padding: 0px;
+    margin-top: 50px;
+    background-color: #fbf8fd;
+    box-shadow: 2px 2px 4px 2px #bababa;
+  }
+  .BSdiv h3 {
+    padding-top: 40px;
+    margin-bottom: 20px;
+  }
+  .BSbtn {
+    background-color: #e4e4e4;
+    height: auto;
+    width: 200px;
+    color: white;
+    border: 0px solid #949494;
+    border-radius: 7px;
+    display: flex;
+    margin: auto;
+    text-align: center;
+  }
+  .Buybtn {
+    color: rgb(0, 0, 0);
+    margin-right: 12px;
+    font-size: 13px;
+    background-color: white;
+    border: 1px solid #e4e4e4;
+    width: 100px;
+    text-decoration: none;
+    border-radius: 7px;
+  }
+  .Buybtn1 {
+    color: rgb(0, 0, 0);
+    margin-right: 12px;
+    font-size: 13px;
+    width: 70px;
+    text-decoration: none;
+    border-radius: 7px;
+  }
+  .Sellbtn {
+    color: rgb(0, 0, 0);
+    margin-right: 12px;
+    font-size: 13px;
+    width: 70px;
+    text-decoration: none;
+    border-radius: 7px;
+  }
+  .Sellbtn1 {
+    color: rgb(0, 0, 0);
+    margin-right: 12px;
+    font-size: 13px;
+    background-color: white;
+    border: 1px solid #e4e4e4;
+    width: 100px;
+    text-decoration: none;
+    border-radius: 7px;
+  }
+  .BSOPTIONS {
+    margin-top: 20px;
+  }
+  .BSOPTIONS h5 {
+    text-align: left;
+    margin-left: 17%;
+  }
+  /* .PP2 {
+    width: 30px;
+  } */
+
+  .BSOPTIONS select {
+    width: 66%;
+    height: 30px;
+    margin-top: 5px;
+    border: 1px solid #e4e4e4;
+    /* margin-right: 10%; */
+  }
+  .BSOPTIONS input {
+    width: 66%;
+    margin-top: 5px;
+    height: 30px;
+    border: 1px solid #e4e4e4;
+  }
+  .Bsbtn {
+    background-color: #7c20bf;
+    margin-top: 10px;
+    border: 0px solid;
+    border-radius: 6px;
+    width: 66%;
+    height: 25px;
+    color: white;
+    font-size: 12px;
+  }
+}
+@media (min-width: 801px) {
+  .BSdiv {
+    width: 600px;
+    height: 650px;
+    border: 0px solid;
+    margin: auto;
+    padding: 0px;
+    margin-top: 30px;
+    background-color: #fbf8fd;
+    box-shadow: 2px 2px 4px 2px #bababa;
+  }
+  .BSdiv h3 {
+    font-size: 30px;
+  }
+  .BSbtn {
+    background-color: #e4e4e4;
+    height: auto;
+    width: 66%;
+    color: white;
+    border: 0px solid #949494;
+    border-radius: 7px;
+    display: flex;
+    margin: auto;
+    text-align: center;
+  }
+  .Buybtn {
+    color: rgb(0, 0, 0);
+    margin-right: 12px;
+    font-size: 13px;
+    background-color: white;
+    border: 1px solid #e4e4e4;
+    width: 220px;
+    text-decoration: none;
+    border-radius: 7px;
+  }
+  .Sellbtn {
+    color: rgb(0, 0, 0);
+    margin-right: 12px;
+
+    font-size: 13px;
+    width: 70px;
+    text-decoration: none;
+    border-radius: 7px;
+  }
+  .Sellbtn1 {
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+    background-color: white;
+    border: 1px solid #e4e4e4;
+    width: 220px;
+    text-decoration: none;
+    border-radius: 7px;
+    position: relative;
+    left: 98px;
+  }
+
+  .BSOPTIONS select {
+    width: 66%;
+    height: 45px;
+    margin-top: 5px;
+    border-radius: 5px;
+
+    border: 1px solid #e4e4e4;
+  }
+  .BSOPTIONS input {
+    width: 66%;
+    height: 45px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #e4e4e4;
+  }
+  .Bsbtn {
+    background-color: #7c20bf;
+    margin-top: 10px;
+    border: 0px solid;
+    border-radius: 6px;
+    width: 66%;
+    height: 45px;
+    color: white;
+    font-size: 12px;
+  }
+  .Bsbtn:hover {
+    background-color: #9132d5;
+  }
+  .currency {
+    margin-top: 40px;
+  }
+}

@@ -1,0 +1,358 @@
+/** @format */
+
+@media (min-width: 320px) {
+  .Home2bg {
+    background-color: #e2e2e2;
+    opacity: 100%;
+  }
+  .HomeText h3 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    text-align: center;
+  }
+  .easypay {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 30px 20px;
+    margin: 20px 40px;
+    border-radius: 8px;
+  }
+  .img {
+    width: 70%;
+    margin-left: 15%;
+  }
+  .easypay h4 {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .easypay p {
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+  }
+  .easypay2 {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 30px 20px;
+    margin: 20px 40px;
+    border-radius: 8px;
+  }
+  .easypay2 img {
+    width: 70%;
+    margin-left: 15%;
+  }
+  .easypay2 h4 {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .easypay2 p {
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+  }
+  .easypay3 {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 30px 20px;
+    margin: 20px 40px;
+    border-radius: 8px;
+  }
+  .easypay3 img {
+    width: 70%;
+    margin-left: 15%;
+  }
+  .easypay3 h4 {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .easypay3 p {
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+  }
+  .btntx {
+    color: black;
+    background-color: transparent;
+    border: 0.5px solid;
+    /* width: 150px;
+    height: 30px; */
+    border-radius: 3px;
+    padding: 7px 50px;
+  }
+  .btntx:hover {
+    border: 2px solid;
+    border-color: #470a73;
+  }
+
+  /* section2 */
+  .section2 {
+    margin-top: 70px;
+  }
+  .creataccttext {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-right: 50px;
+  }
+  .creataccttext h4 {
+    background-color: #7c20bf;
+    width: 24px;
+    height: 23px;
+    border-radius: 2px;
+    box-shadow: 3px 2px 2px 2px rgb(165, 165, 165);
+  }
+  .creataccttext h3 {
+    font-size: 18px;
+  }
+  .creatdiv p {
+    font-size: 12px;
+    padding: 15px;
+  }
+
+  .create {
+    width: 50%;
+    margin-bottom: 10px;
+  }
+
+  /* deposite section */
+  .creataccttext2 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-right: 150px;
+  }
+  .creataccttext2 h4 {
+    background-color: #7c20bf;
+    width: 24px;
+    height: 23px;
+    border-radius: 2px;
+    box-shadow: 3px 2px 2px 2px rgb(165, 165, 165);
+  }
+  .creatdiv2 p {
+    font-size: 12px;
+    padding: 15px;
+  }
+  .create2 {
+    width: 50%;
+    margin-bottom: 10px;
+  }
+
+  /* buy and sell */
+  .creataccttext3 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 20px;
+    margin-right: 120px;
+  }
+  .creataccttext3 h4 {
+    background-color: #7c20bf;
+    width: 24px;
+    height: 23px;
+    border-radius: 2px;
+    box-shadow: 3px 2px 2px 2px rgb(165, 165, 165);
+  }
+  .create3 {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  .creatdiv3 p {
+    font-size: 12px;
+    padding: 15px;
+  }
+}
+@media (min-width: 801px) {
+  .easypaydiv {
+    display: flex;
+  }
+  .easypay {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 30px 20px;
+    margin: 20px 40px;
+    border-radius: 8px;
+  }
+  .img {
+    width: 70%;
+    margin-left: 15%;
+  }
+  .easypay h4 {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .easypay p {
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+  }
+  .easypay2 {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 30px 20px;
+    margin: 20px 40px;
+    border-radius: 8px;
+  }
+  .easypay2 img {
+    width: 50%;
+    margin-left: 15%;
+  }
+  .easypay2 h4 {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .easypay2 p {
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+  }
+  .easypay3 {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 30px 20px;
+    margin: 20px 40px;
+    border-radius: 8px;
+  }
+  .easypay3 img {
+    width: 70%;
+    margin-left: 15%;
+  }
+  .easypay3 h4 {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .easypay3 p {
+    text-align: center;
+    font-size: 10px;
+    padding: 10px;
+  }
+
+  /* section2 */
+
+  .creatdiv {
+    display: flex;
+    justify-content: space-between;
+  }
+  .creataccttext {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 90px;
+    margin-right: 50px;
+    position: relative;
+    bottom: 20px;
+  }
+  .creataccttext h4 {
+    background-color: #7c20bf;
+    width: 24px;
+    height: 23px;
+    border-radius: 2px;
+    box-shadow: 3px 2px 2px 2px rgb(165, 165, 165);
+  }
+  .creataccttext h3 {
+    width: 200px;
+  }
+  .creatdiv p {
+    font-size: 12px;
+    width: 1000px;
+    text-align: left;
+    position: relative;
+    top: 45px;
+    right: 250px;
+    margin-bottom: 50px;
+    overflow: hidden;
+  }
+
+  .create {
+    width: 120%;
+    margin-bottom: 10px;
+    position: relative;
+    right: 150px;
+    top: 20px;
+    margin-bottom: 20px;
+  }
+
+  /* deposite section */
+  .creatdiv2 {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 20px;
+  }
+  .creataccttext2 {
+    margin-top: 50px;
+    position: relative;
+    bottom: 20px;
+  }
+  .creataccttext2 h4 {
+    background-color: #7c20bf;
+    width: 24px;
+    height: 23px;
+    border-radius: 2px;
+    box-shadow: 3px 2px 2px 2px rgb(165, 165, 165);
+  }
+  .creataccttext2 h3 {
+    width: 200px;
+  }
+  .creatdiv2 p {
+    font-size: 12px;
+    text-align: left;
+    width: 1000px;
+    padding: 15px;
+    position: relative;
+    top: 30px;
+    left: 280px;
+    margin-top: 10px;
+    overflow: hidden;
+  }
+  .create2 {
+    width: 120%;
+    margin-bottom: 10px;
+    position: relative;
+    left: 80px;
+  }
+
+  /* buy and sell */
+  .creatdiv3 {
+    display: flex;
+    justify-content: space-between;
+  }
+  .creataccttext3 {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 90px;
+    margin-right: 50px;
+    position: relative;
+    bottom: 20px;
+  }
+  .creataccttext3 h4 {
+    background-color: #7c20bf;
+    width: 24px;
+    height: 23px;
+    border-radius: 2px;
+    box-shadow: 3px 2px 2px 2px rgb(165, 165, 165);
+  }
+  .create3 {
+    width: 120%;
+    margin-bottom: 10px;
+    position: relative;
+    right: 150px;
+    top: 20px;
+    margin-bottom: 20px;
+  }
+  .creatdiv3 p {
+    font-size: 12px;
+    width: 1000px;
+    text-align: left;
+    position: relative;
+    top: 45px;
+    right: 250px;
+    margin-bottom: 50px;
+    overflow: hidden;
+  }
+  .creataccttext3 h3 {
+    width: 200px;
+  }
+}
